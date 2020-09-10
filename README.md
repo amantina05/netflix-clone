@@ -1,3 +1,17 @@
+# Netflix Clone
+
+## (c) Netflix Clone, 2020
+
+### Tina Sosa
+
+#### Check out my deployed web app:
+
+[Netflix Clone](https://netflix-clone-fc908.web.app/ 'Netflix Clone')
+
+#### Marketing copy:
+
+A clone of the search engine Google. This project was created by following a Live Stream video from CleverProgrammer YouTube channel.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
